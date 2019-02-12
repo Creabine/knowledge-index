@@ -19,9 +19,9 @@
 - [Creabine-Commentator](https://github.com/Creabine/Creabine-Commentator): 一款简单的评论轮播展示插件
 - [Creabine-Timeline](https://github.com/Creabine/Creabine-Timeline): 一款响应式时间轴插件
 
-## 博文及学习笔记归档整理
+## 博文及学习笔记归档整理
 
-### 前端基础
+### 前端基础
 
 - JavaScript相关
   - Doing
@@ -29,7 +29,7 @@
   - Doing
 - CSS相关
   - Doing
-- 数据结构与算法
+- 数据结构与算法
   - Doing
 - 网络、安全与性能
   - Doing
