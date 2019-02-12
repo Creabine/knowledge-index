@@ -14,6 +14,7 @@
 
 ### 练手demo
 
+- [Creabine-cli](https://github.com/Creabine/Creabine-cli): 自用模板组成的脚手架
 - [Creabine-Carousel](https://github.com/Creabine/Creabine-Carousel): 一款简单的渐变轮播插件
 - [Creabine-Commentator](https://github.com/Creabine/Creabine-Commentator): 一款简单的评论轮播展示插件
 - [Creabine-Timeline](https://github.com/Creabine/Creabine-Timeline): 一款响应式时间轴插件
